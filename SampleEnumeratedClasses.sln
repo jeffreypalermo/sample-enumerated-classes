@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32317.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClearMeasure.Palermo.Core", "Core\ClearMeasure.Palermo.Core.csproj", "{FF2A46F3-CA59-4AAC-ABFF-CEDAD58F1DE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearMeasure.Palermo.UnitTests", "ClearMeasure.Palermo.UnitTests\ClearMeasure.Palermo.UnitTests.csproj", "{F99ED5EA-825F-40A3-8C19-B2708E1F860C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF2A46F3-CA59-4AAC-ABFF-CEDAD58F1DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF2A46F3-CA59-4AAC-ABFF-CEDAD58F1DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF2A46F3-CA59-4AAC-ABFF-CEDAD58F1DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF2A46F3-CA59-4AAC-ABFF-CEDAD58F1DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99ED5EA-825F-40A3-8C19-B2708E1F860C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99ED5EA-825F-40A3-8C19-B2708E1F860C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99ED5EA-825F-40A3-8C19-B2708E1F860C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99ED5EA-825F-40A3-8C19-B2708E1F860C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A7B77F0-98F3-4D08-8AC6-59EBBA64A0B9}
+	EndGlobalSection
+EndGlobal
